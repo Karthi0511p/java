@@ -22,6 +22,7 @@ public class Practices {
 		for(int i=0;i<b;i++) {
 			System.out.println(i);
 		}
+		System.out.println("hi");
 	}
 
 }
